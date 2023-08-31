@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório de estudos! Aqui você encontrará uma minhas ativ
 
 - [Estudo de Programação WEB](/)
 - [Estudos com Python](https://github.com/daykell1/Estudos/tree/estudo/Python)
-- [Estudo de javaScript](/)
+- [Estudo de javaScript](/https://github.com/daykell1/Estudos/tree/estudo/JavaScript)
 
 
 ## Contato
