@@ -1,0 +1,51 @@
+/*Aprendendo a estilizar com CSS 
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align:justify ;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+  
+
+  }
+  
+  .subtitle {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: blue;
+  }
+
+  .telematica {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: orange;
+  }
+
+  .engcomp {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color: green;
+  }
+
+  .licenciatura-quimica {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: red;
+    text-decoration: underline ;  
+  }
+
+  .first-html-class {
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    color: magenta;
+    white-space: pre;
+  }
