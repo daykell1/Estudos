@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de estudos! Aqui você encontrará uma minhas ativ
 
 ## Conteudos 
 
-- [Estudo de Programação WEB](/)
+- [Estudo de Programação WEB](https://github.com/daykell1/Estudos/tree/estudo/Web)
 - [Estudos com Python](https://github.com/daykell1/Estudos/tree/estudo/Python)
 - [Estudo de javaScript](https://github.com/daykell1/Estudos/tree/estudo/JavaScript)
 

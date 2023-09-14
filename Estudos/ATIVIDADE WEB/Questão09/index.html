@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estatísticas de Números</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+    <h1>Estatísticas de Números</h1>
+
+    <label for="inputNumeros">Insira a lista de números (separados por vírgula):</label>
+    <input type="text" id="inputNumeros" placeholder="Exemplo: 5, -3, 9, -7, 2">
+
+    <button id="calcularButton">Calcular Estatísticas</button>
+
+    <p><strong>Resultados:</strong></p>
+    <p><span>Média Aritmética: </span><span id="mediaAritmetica"></span></p>
+    <p><span>Quantidade de Valores Positivos: </span><span id="quantidadePositivos"></span></p>
+    <p><span>Quantidade de Valores Negativos: </span><span id="quantidadeNegativos"></span></p>
+    <p><span>Percentual de Valores Positivos: </span><span id="percentualPositivos"></span>%</p>
+    <p><span>Percentual de Valores Negativos: </span><span id="percentualNegativos"></span>%</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
